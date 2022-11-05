@@ -636,7 +636,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '• K a s an '
+global.stickpack = '• K a s a n'
 global.stickauth = `BOT BY K A S A N S T O R R`
 
 global.multiplier = 38 // The higher, The harder levelup
