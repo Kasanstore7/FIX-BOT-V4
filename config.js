@@ -10,12 +10,12 @@
 // • Kannachann
 // • FahriAdison
 // • The.Sad.Boy01
-// • Rlxfly
-// • Rasel comel
-// • ImYanXiao
-// • WH MODS DEV
-// • Xtreshe
-// • Dll
+// • Yang udah suport gw
+// • Mama Gw
+// • Ayah Gw
+// • Kakak Gw
+// • Keluarga gw
+// • Dan Para donasi 
 
 //[!] Jangan Lupa Ganti Ownernya
 
@@ -50,8 +50,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
 global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
+global.sgh = 'https://github.com/Kasanstore7/' // github
+global.sgc = 'https://chat.whatsapp.com/GeWPLmclHaVHsF0GymCcJz' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
@@ -59,16 +59,16 @@ global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2
 
 /*============== PAYMENT ==============*/
 global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
+global.povo = '085641142178' //ovo
+global.pgopay = '082110711736' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
 global.ppulsa = '08XXXXXXXXXX' //telkomsel
 global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.co/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285641142178'
-global.nomorown = '6282110711736'
+global.nomorbot = '6282110711736'
+global.nomorown = '6285641142278'
 global.namebot = 'KASAN BOT'
 global.nameown = 'KASAN STORE DEV'
 
